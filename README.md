@@ -1,5 +1,6 @@
 # Googleplaytest (using the Page Object Model design pattern)
 first scenario
+
 1-open Google play
 
 2- Select Apps from left side menu
